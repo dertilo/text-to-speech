@@ -1,0 +1,7 @@
+numpy
+scipy
+unidecode
+inflect
+librosa
+jupyter
+# apt-get install libsndfile1
